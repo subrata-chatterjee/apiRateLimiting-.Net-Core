@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "w/rQx9DIYTI94mg0L+ku66RB5jbRbv5uKfCQZmlbF2A=",
+  "Source": "ApiRateLimiting",
+  "BasePath": "_content/ApiRateLimiting",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
